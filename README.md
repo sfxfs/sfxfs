@@ -1,4 +1,4 @@
-[中文版](README_CN.md)
+[ [中文](README_CN.md) | English ]
 
 ### 👨‍💻 Statement
 
@@ -8,4 +8,4 @@ Hi! I am an student from National University of Singapore. My major is Software 
 
 ![Xiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfxfs&show_icons=true&theme=synthwave)
 
-### 📔 [Personal Blog (Only Chinese)](https://sfxfs.github.io)
+### 📔 [Personal Blog (Chinese Version Only)](https://sfxfs.github.io)
