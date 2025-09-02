@@ -2,10 +2,10 @@
 
 ### 👨‍💻 Statement
 
-Hi! I am an student from National University of Singapore. My major is Software Engineering, and I am used to be a member of Jimei University's Underwater Intelligence Innovation Laboratory. My main responsibility is the development of software for controlling underwater robots. I am proficient in programming languages such as C, and I have also worked with languages like Python, C++.
+Hi! I'm currently studying Software Engineering at the National University of Singapore. I was previously a member of the Underwater Intelligence Innovation Laboratory at Jimei University. My focus is on embedded system software development, and I've been responsible for the development of underwater unmanned submersibles (underwater drones) using Linux and RTOS. While I'm primarily skilled in C, I also use other languages like C++ and Python.
 
 ### 🚦 Status
 
-![Xiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfxfs&show_icons=true&theme=synthwave)
+![Xiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfxfs&show_icons=true&theme=transparent)
 
-### 📔 [Personal Blog (Chinese Version Only)](https://sfxfs.github.io)
+#### 📔 [Personal Blog (Chinese Version Only)](https://sfxfs.github.io)
