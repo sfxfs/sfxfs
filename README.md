@@ -70,6 +70,16 @@ Hi there! I'm a passionate **Software Engineering student** at the **National Un
 
 </div>
 
+## 📂 Explore More
+
+<div align="center">
+
+[![Projects Portfolio](https://img.shields.io/badge/💼_Portfolio-View_Projects-blue?style=for-the-badge&logo=github)](PROJECTS.md)
+[![Learning Journey](https://img.shields.io/badge/📚_Learning-My_Journey-green?style=for-the-badge&logo=book)](LEARNING.md)
+[![Contributing](https://img.shields.io/badge/🤝_Contributing-Guidelines-purple?style=for-the-badge&logo=handshake)](CONTRIBUTING.md)
+
+</div>
+
 ## 📫 Let's Connect!
 
 I'm always interested in discussing embedded systems, underwater robotics, or software engineering in general. Feel free to reach out!

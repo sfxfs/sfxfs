@@ -70,6 +70,16 @@
 
 </div>
 
+## 📂 了解更多
+
+<div align="center">
+
+[![项目作品集](https://img.shields.io/badge/💼_作品集-查看项目-blue?style=for-the-badge&logo=github)](PROJECTS.md)
+[![学习历程](https://img.shields.io/badge/📚_学习-我的历程-green?style=for-the-badge&logo=book)](LEARNING.md)
+[![贡献指南](https://img.shields.io/badge/🤝_贡献-指南-purple?style=for-the-badge&logo=handshake)](CONTRIBUTING.md)
+
+</div>
+
 ## 📫 联系我！
 
 我总是乐于讨论嵌入式系统、水下机器人或软件工程相关话题。欢迎联系我！
