@@ -42,7 +42,7 @@ Hi there! I'm a passionate **Software Engineering student** at the **National Un
 ## 🎓 Education
 
 **🏛️ National University of Singapore (NUS)**
-- 📚 Bachelor of Engineering in Software Engineering
+- 📚 MTech in Software Engineering
 - 📍 Singapore
 - 🗓️ Current Student
 
@@ -64,8 +64,6 @@ Hi there! I'm a passionate **Software Engineering student** at the **National Un
 
 ![Xiao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfxfs&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sfxfs&layout=compact&theme=transparent&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sfxfs&theme=transparent&hide_border=true)
 
 </div>
@@ -75,8 +73,6 @@ Hi there! I'm a passionate **Software Engineering student** at the **National Un
 <div align="center">
 
 [![Projects Portfolio](https://img.shields.io/badge/💼_Portfolio-View_Projects-blue?style=for-the-badge&logo=github)](PROJECTS.md)
-[![Learning Journey](https://img.shields.io/badge/📚_Learning-My_Journey-green?style=for-the-badge&logo=book)](LEARNING.md)
-[![Contributing](https://img.shields.io/badge/🤝_Contributing-Guidelines-purple?style=for-the-badge&logo=handshake)](CONTRIBUTING.md)
 
 </div>
 
@@ -87,7 +83,7 @@ I'm always interested in discussing embedded systems, underwater robotics, or so
 <div align="center">
 
 [![Personal Blog](https://img.shields.io/badge/📔_Personal_Blog-Visit-orange?style=for-the-badge&logo=github-pages)](https://sfxfs.github.io)
-[![Email](https://img.shields.io/badge/📧_Contact-Email-red?style=for-the-badge&logo=gmail)](mailto:contact@example.com)
+[![Email](https://img.shields.io/badge/📧_Contact-Email-red?style=for-the-badge&logo=gmail)](mailto:xiaofeng-fu@foxmail.com)
 
 </div>
 

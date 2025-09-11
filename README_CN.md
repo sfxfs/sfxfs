@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 你好，我是小晓！
+# 👋 你好，这里是 Xiao！
 
 ### 🚀 软件工程学生 | 🤖 嵌入式系统开发者 | 🌊 水下机器人爱好者
 
@@ -42,11 +42,12 @@
 ## 🎓 教育背景
 
 **🏛️ 新加坡国立大学 (NUS)**
-- 📚 软件工程学士学位
+- 📚 软件工程硕士学位
 - 📍 新加坡
 - 🗓️ 在读学生
 
 **🏛️ 集美大学**
+- 📚 通信工程学士学位
 - 🔬 水下智能创新实验室
 - 📍 中国厦门
 - 🤖 研究方向：水下无人载具开发
@@ -62,9 +63,7 @@
 
 <div align="center">
 
-![小晓的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=sfxfs&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&locale=cn)
-
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=sfxfs&layout=compact&theme=transparent&hide_border=true&locale=cn)
+![Xiao 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=sfxfs&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&locale=cn)
 
 ![GitHub 连击](https://github-readme-streak-stats.herokuapp.com/?user=sfxfs&theme=transparent&hide_border=true&locale=zh_Hans)
 
@@ -75,8 +74,6 @@
 <div align="center">
 
 [![项目作品集](https://img.shields.io/badge/💼_作品集-查看项目-blue?style=for-the-badge&logo=github)](PROJECTS.md)
-[![学习历程](https://img.shields.io/badge/📚_学习-我的历程-green?style=for-the-badge&logo=book)](LEARNING.md)
-[![贡献指南](https://img.shields.io/badge/🤝_贡献-指南-purple?style=for-the-badge&logo=handshake)](CONTRIBUTING.md)
 
 </div>
 
@@ -87,7 +84,7 @@
 <div align="center">
 
 [![个人博客](https://img.shields.io/badge/📔_个人博客-访问-orange?style=for-the-badge&logo=github-pages)](https://sfxfs.github.io)
-[![邮箱](https://img.shields.io/badge/📧_联系-邮箱-red?style=for-the-badge&logo=gmail)](mailto:contact@example.com)
+[![邮箱](https://img.shields.io/badge/📧_联系-邮箱-red?style=for-the-badge&logo=gmail)](mailto:xiaofeng-fu@foxmail.com)
 
 </div>
 
