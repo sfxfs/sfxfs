@@ -42,11 +42,13 @@ Hi there! I'm a passionate **Software Engineering student** at the **National Un
 ## 🎓 Education
 
 **🏛️ National University of Singapore (NUS)**
+
 - 📚 MTech in Software Engineering
 - 📍 Singapore
 - 🗓️ Current Student
 
 **🏛️ Jimei University**
+
 - 🔬 Underwater Intelligence Innovation Laboratory
 - 📍 Xiamen, China
 - 🤖 Focus: Underwater Unmanned Vehicle Development
@@ -90,8 +92,6 @@ I'm always interested in discussing embedded systems, underwater robotics, or so
 ---
 
 <div align="center">
-
-*"Innovation in embedded systems meets the depths of the ocean"* 🌊🤖
 
 ⭐ **If you find my work interesting, consider giving my repositories a star!**
 

@@ -5,11 +5,15 @@ Welcome to my project showcase! Here you'll find information about my key projec
 ## 🌊 Featured Projects
 
 ### 1. **Underwater Autonomous Vehicle Control System** 🤖
+
+[Github Link](https://github.com/sfxfs/sub-navi)
+
 *Research Project at Jimei University Underwater Intelligence Innovation Laboratory*
 
 **Overview**: Developed a comprehensive control system for underwater unmanned submersibles, focusing on autonomous navigation and sensor integration.
 
 **Key Technologies**:
+
 - **Languages**: C, C++
 - **Platforms**: Linux, RTOS
 - **Hardware**: ARM Cortex-M, various sensors
@@ -24,6 +28,9 @@ Welcome to my project showcase! Here you'll find information about my key projec
 ---
 
 ### 2. **ESP32-based Robot Control System** 📡
+
+[Github Link](https://github.com/sfxfs/esp-sub-master)
+
 Project Lead	*Oct 2024 – Mar 2025*  
 
   - Designed MPU+MCU cooperative system to address Linux SoC latency and I/O limitations.  
@@ -34,6 +41,9 @@ Project Lead	*Oct 2024 – Mar 2025*
 ---
 
 ### 3. **Lightweight JSON-RPC 2.0 Server** ⚡
+
+[Github Link](https://github.com/sfxfs/mjsonrpc)
+
 Personal Project	*Sep 2024 – Dec 2024*
 
   - Developed C-based JSON-RPC 2.0 server (5KB memory footprint), dependency-free except cJSON.  
