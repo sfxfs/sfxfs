@@ -74,7 +74,7 @@ Hi there! I'm a passionate **Software Engineering student** at the **National Un
 
 <div align="center">
 
-[![Projects Portfolio](https://img.shields.io/badge/💼_Portfolio-View_Projects-blue?style=for-the-badge&logo=github)](PROJECTS.md)
+[![Projects Portfolio](https://img.shields.io/badge/💼_Portfolio-View_Projects-blue?style=for-the-badge&logo=github)](PROJECTS_EN.md)
 
 </div>
 

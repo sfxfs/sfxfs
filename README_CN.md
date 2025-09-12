@@ -73,7 +73,7 @@
 
 <div align="center">
 
-[![项目作品集](https://img.shields.io/badge/💼_作品集-查看项目-blue?style=for-the-badge&logo=github)](PROJECTS.md)
+[![项目作品集](https://img.shields.io/badge/💼_作品集-查看项目-blue?style=for-the-badge&logo=github)](PROJECTS_CN.md)
 
 </div>
 
