@@ -65,8 +65,6 @@
 
 ![Xiao 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=sfxfs&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&locale=cn)
 
-![GitHub 连击](https://github-readme-streak-stats.herokuapp.com/?user=sfxfs&theme=transparent&hide_border=true&locale=zh_Hans)
-
 </div>
 
 ## 📂 了解更多
