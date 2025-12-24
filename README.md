@@ -64,7 +64,7 @@ Hi there! I'm a passionate **Software Engineering student** at the **National Un
 
 <div align="center">
 
-![Xiao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfxfs&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
+![Xiao's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sfxfs&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 
