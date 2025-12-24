@@ -65,6 +65,8 @@
 
 ![Xiao 的 GitHub 统计](https://github-readme-stats-fast.vercel.app/api?username=sfxfs&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&locale=cn)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sfxfs&theme=transparent&locale=zh_Hans" alt="GitHub Streak" /></a>
+
 </div>
 
 ## 📂 了解更多
