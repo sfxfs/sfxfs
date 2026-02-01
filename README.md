@@ -39,20 +39,6 @@ Hi there! I'm a passionate **Software Engineering student** at the **National Un
 - ⚡ **Real-Time Operating Systems (RTOS)**
 - 🔧 **Hardware-Software Integration**
 
-## 🎓 Education
-
-**🏛️ National University of Singapore (NUS)**
-
-- 📚 MTech in Software Engineering
-- 📍 Singapore
-- 🗓️ Current Student
-
-**🏛️ Jimei University**
-
-- 🔬 Underwater Intelligence Innovation Laboratory
-- 📍 Xiamen, China
-- 🤖 Focus: Underwater Unmanned Vehicle Development
-
 ## 🚀 Current Focus
 
 - 🌱 **Learning**: Advanced software architecture and system design
